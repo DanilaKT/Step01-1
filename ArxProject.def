@@ -1,0 +1,4 @@
+LIBRARY Step01
+EXPORTS
+acrxEntryPoint PRIVATE
+acrxGetApiVersion PRIVATE
