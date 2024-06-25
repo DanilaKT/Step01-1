@@ -25,8 +25,6 @@ acrxEntryPoint(AcRx::AppMsgCode msg, void* pkt)
         break;
     default:
         break;
-
-
     }
 
     return AcRx::kRetOK;
